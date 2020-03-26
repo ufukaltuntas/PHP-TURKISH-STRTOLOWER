@@ -1,10 +1,10 @@
 # ufuxio
 PHP TURKISH STRLOWER
 
-Özellike mb_strlower fonksiyonunun türkçe harflerde hata dolayı ufak bir fonksiyon yazdım.
+Özellikle mb_strlower fonksiyonunun türkçe harflerde ki hatalarından dolayı ufak bir fonksiyon yazdım.
 Aşağıda kullanımı ile ilgili bilgiler paylaştım.
 
-I wrote a small function to the property because of the error in the Turkish letters of the mb_strlower function.
+I wrote a small function especially because of the errors of the mb_strlower function in Turkish letters.
 I have shared information about its use below.
 
 

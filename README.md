@@ -1,4 +1,4 @@
-# ufuxio
+# PHP TURKISH STRLOWER
 PHP TURKISH STRLOWER
 
 Özellikle mb_strlower fonksiyonunun türkçe harflerde ki hatalarından dolayı ufak bir fonksiyon yazdım.

@@ -9,7 +9,6 @@ function strlower_tr($string, $charset = 'UTF-8')
         'I' => 'ı',
     );
     $string = str_replace(array_keys($special_cases), array_values($special_cases), $string);
-    $string = mb_strtolower($string, 'UTF-8');
     return mb_convert_case(mb_strtolower($string), MB_CASE_TITLE, $charset);
 }
 
